@@ -1,0 +1,33 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-family: 'Shantell Sans', cursive;
+}
+
+body {
+  background: #f9f5ed
+}
+
+h1,h4,p, a{
+  color: #5b4115;
+  text-decoration: none;
+}
+
+.btn{
+  color: #efb95d;
+  background-color: #f9f5ed;
+  padding: 5px;
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn-item{
+  margin: 10px;
+}
+ul{
+  list-style-type: none;
+}

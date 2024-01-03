@@ -1,0 +1,30 @@
+
+.header {
+    margin: 0;
+    top: 0;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    /* margin-right: 50%; */
+    background-color: #fcf6f3;
+   
+}
+
+.nav-menu {
+    display: flex;
+    text-decoration: none;
+}
+
+.nav-menu li{
+    padding: 0 3rem;
+    color: chocolate;
+    
+}
+
+.nav-menu a {
+  font-size: 1.2rem;
+  font-weight: 500;
+
+}
